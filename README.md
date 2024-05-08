@@ -1,3 +1,4 @@
 # uttamprajapat-demo
 This is my first Git repository. 
-Aothor- uttam prajapat
+<br>
+Aothor- Uttam Prajapat
